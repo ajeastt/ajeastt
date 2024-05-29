@@ -1,4 +1,4 @@
-# Hello, I'm Editz7! 👋
+# Hello, I'm Adam! 👋
 
 Welcome to my GitHub profile!
 
