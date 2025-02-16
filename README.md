@@ -7,7 +7,7 @@
 ### 🔹 About Me
 - 🛠️ Currently working as a **Network Support Specialist II at UTMB Health**
 - 🎓 Pursuing a **BAT in Cybersecurity** at **San Jacinto College**
-- 📜 Certified in **Google Cybersecurity Professinal**
+- 📜 Certified **Google Cybersecurity Professinal**
 - 💡 Passionate about **Blue Team operations, Digital Forensics, and Network Security**
 
 ---
