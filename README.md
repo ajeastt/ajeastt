@@ -22,11 +22,11 @@
 
 ### 🔹 Projects
 🔹 **[FlameToGrim](https://github.com/ajeastt/FlameToGrim)**
-- **Purpose:** Converts **Flame graph output** to **Grim format** for better visualization and analysis.
+- **Purpose:** A script for capturing and uploading screenshots in a Hyprland (Wayland) environment.
 - **Features:**
-  - Parses and transforms flame graph profiling data.
-  - Improves data interpretation for performance analysis.
-  - Useful for security research and system performance tuning.
+  - Uploads screenshots to a Zipline file server.
+  - Screenshots are stored in /tmp and deleted after upload.
+  - Copies the uploaded screenshot’s URL to your clipboard.
 
 🔹 **[Realtime Failed Login](https://github.com/ajeastt/Realtime-Failed-Login)**
 - **Purpose:** Real-time monitoring and logging of failed login attempts.
