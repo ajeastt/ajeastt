@@ -2,9 +2,9 @@
 
 <div align="center">
   
-[![Security Professional](https://img.shields.io/badge/Security-Professional-blue?style=for-the-badge&logo=shield)]
-[![SOC Analyst](https://img.shields.io/badge/SOC-Analyst-red?style=for-the-badge&logo=target)]
-[![Network Specialist](https://img.shields.io/badge/Network-Specialist-green?style=for-the-badge&logo=cisco)
+![Security Professional](https://img.shields.io/badge/Security-Professional-blue?style=for-the-badge&logo=shield)
+![SOC Analyst](https://img.shields.io/badge/SOC-Analyst-red?style=for-the-badge&logo=target)
+![Network Specialist](https://img.shields.io/badge/Network-Specialist-green?style=for-the-badge&logo=cisco)
 
 </div>
 
@@ -25,9 +25,9 @@ I'm a dedicated cybersecurity professional specializing in blue team operations,
 
 | Category | Skills & Tools |
 |----------|----------------|
-| **Security Operations** | Wireshark, Snort, IDS/IPS, SIEM Systems, Threat Hunting |
+| **Security Operations** | Wireshark, Snort, IDS/IPS, SIEM Systems |
 | **Network Security** | Cisco ISE, Infoblox, Solarwinds, Firewall Configuration, VPN Management |
-| **System Administration** | Linux Administration (Arch, Rocky), Windows Server, Patch Management |
+| **System Administration** | Linux Administration (Arch, Rocky), Patch Management |
 | **Cloud & DevOps** | Docker Containerization, CI/CD Security, Nextcloud Deployment |
 | **IAM & Access Control** | User Privilege Management, Zero Trust Implementation |
 | **Scripting & Automation** | Python, Bash, PowerShell (Security Automation Scripts) |
