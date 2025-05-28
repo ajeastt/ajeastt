@@ -3,7 +3,6 @@
 <div align="center">
   
 ![Security Professional](https://img.shields.io/badge/Security-Professional-blue?style=for-the-badge&logo=shield)
-![SOC Analyst](https://img.shields.io/badge/SOC-Analyst-red?style=for-the-badge&logo=target)
 ![Network Specialist](https://img.shields.io/badge/Network-Specialist-green?style=for-the-badge&logo=cisco)
 
 </div>
