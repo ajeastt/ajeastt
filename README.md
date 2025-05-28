@@ -25,11 +25,10 @@ I'm a dedicated cybersecurity professional specializing in blue team operations,
 
 | Category | Skills & Tools |
 |----------|----------------|
-| **Security Operations** | Wireshark, Snort, IDS/IPS, SIEM Systems |
-| **Network Security** | Cisco ISE, Infoblox, Solarwinds, Firewall Configuration, VPN Management |
-| **System Administration** | Linux Administration (Arch, Rocky), Patch Management |
-| **Cloud & DevOps** | Docker Containerization, CI/CD Security, Nextcloud Deployment |
-| **IAM & Access Control** | User Privilege Management, Zero Trust Implementation |
+| **Security Operations** | Snort, IDS/IPS, SIEM Systems |
+| **Network Security** | Cisco ISE, Infoblox, Solarwinds, |
+| **System Administration** | Linux Administration (Arch, Rocky) |
+| **Cloud & DevOps** | Docker Containerization, Nextcloud Deployment |
 | **Scripting & Automation** | Python, Bash, PowerShell (Security Automation Scripts) |
 
 </details>
@@ -68,7 +67,6 @@ I maintain a comprehensive home lab for cybersecurity practice and development:
   - VLAN segmentation and proper network isolation
 - **Security Monitoring**: Self-hosted IDS/IPS system with custom rule sets
 - **Automation**: Home Assistant for environment control and security automation
-- **Services**: Self-hosted Nextcloud, Caddy web server with security hardening
 
 ## 📈 GitHub Activity
 
