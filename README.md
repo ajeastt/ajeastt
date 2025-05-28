@@ -4,6 +4,7 @@
   
 ![Security Professional](https://img.shields.io/badge/Security-Professional-blue?style=for-the-badge&logo=shield)
 ![Network Specialist](https://img.shields.io/badge/Network-Specialist-green?style=for-the-badge&logo=cisco)
+![Linux Poweruser](https://img.shields.io/badge/Linux-PowerUser-black?style=for-the-badge&logo=linux)
 
 </div>
 
