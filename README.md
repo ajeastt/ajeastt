@@ -59,7 +59,7 @@ An advanced security monitoring solution for detecting and responding to suspici
 ---
 
 ### Mixcast 4 Linux Audio Converter
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/ajeastt/mixcast4-linux-converter)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)]([https://github.com/ajeastt/mixcast4-linux-converter](https://github.com/ajeastt/Mixcast-4-Linux-Audio-Converter))
 
 A lightning-fast, platform-native shell script for Linux that converts any audio file into the exact WAV format required by the Tascam Mixcast 4 soundpad:
 
