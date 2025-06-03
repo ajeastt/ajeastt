@@ -56,6 +56,20 @@ An advanced security monitoring solution for detecting and responding to suspici
 - **Comprehensive Logging**: Detailed logs with timestamp, source IP, and attack patterns
 - **Alert Integration**: Compatible with SIEM systems and notification platforms
 
+---
+
+### Mixcast 4 Linux Audio Converter
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/ajeastt/mixcast4-linux-converter)
+
+A lightning-fast, platform-native shell script for Linux that converts any audio file into the exact WAV format required by the Tascam Mixcast 4 soundpad:
+
+- **Universal Compatibility:** Convert from any format (MP3, WAV, FLAC, etc.) to 16-bit, 48 kHz, mono WAV files
+- **Mixcast 4-Ready:** Automatically outputs files with the correct naming convention for seamless integration
+- **Linux Focused:** 100% native—no Windows, no Wine, no virtual machines
+- **Streamlined Workflow:** Instantly move files to your SD card’s `SOUNDPAD` folder
+
+<sub>Built to help Linux audio creators and podcasters overcome the limitations of proprietary software.</sub>
+
 ## 🏗️ Home Lab Environment
 
 I maintain a comprehensive home lab for cybersecurity practice and development:
