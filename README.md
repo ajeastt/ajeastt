@@ -12,7 +12,7 @@
 
 I'm a dedicated cybersecurity professional specializing in blue team operations, digital forensics, and network security. Currently pursuing a Bachelor of Applied Technology in Cybersecurity at San Jacinto College while working as a Network Support Specialist.
 
-- 🎓 **BAT in Cybersecurity** (in progress) - San Jacinto College
+- 🎓 **BAT in Cybersecurity** (in progress)
 - 📜 **Google Cybersecurity Professional** certification
 - 🔍 Focused on **threat detection**, **incident response**, and **security hardening**
 - 🏠 Passionate about building secure home lab environments for testing and learning
