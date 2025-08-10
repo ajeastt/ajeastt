@@ -33,20 +33,6 @@ I'm a dedicated cybersecurity professional specializing in blue team operations,
 
 </details>
 
-## 🔒 Projects & Contributions
-
-### FlameToGrim - Screenshot Management Tool
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/ajeastt/FlameToGrim)
-
-A secure screenshot utility for Hyprland (Wayland) environments with privacy-focused features:
-
-- **End-to-End Security**: Screenshots stored temporarily in `/tmp` and securely deleted after upload
-- **Seamless Integration**: Automatic uploads to Zipline file server with URL clipboard copying
-- **Privacy Protection**: No local storage of sensitive screen captures
-- **Technologies**: Bash, Wayland API, Zipline Integration
-
----
-
 ### Realtime Failed Login Monitoring System
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/ajeastt/Realtime-Failed-Login)
 
@@ -57,18 +43,6 @@ An advanced security monitoring solution for detecting and responding to suspici
 - **Alert Integration**: Compatible with SIEM systems and notification platforms
 
 ---
-
-### Mixcast 4 Linux Audio Converter
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/ajeastt/Mixcast-4-Linux-Audio-Converter)
-
-A lightning-fast, platform-native shell script for Linux that converts any audio file into the exact WAV format required by the Tascam Mixcast 4 soundpad:
-
-- **Universal Compatibility:** Convert from any format (MP3, WAV, FLAC, etc.) to 16-bit, 48 kHz, mono WAV files
-- **Mixcast 4-Ready:** Automatically outputs files with the correct naming convention for seamless integration
-- **Linux Focused:** 100% native—no Windows, no Wine, no virtual machines
-- **Streamlined Workflow:** Instantly move files to your SD card’s `SOUNDPAD` folder
-
-<sub>Built to help Linux audio creators and podcasters overcome the limitations of proprietary software.</sub>
 
 ## 🏗️ Home Lab Environment
 
